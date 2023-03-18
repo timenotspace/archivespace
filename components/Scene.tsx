@@ -41,7 +41,7 @@ const StarField: React.FC = () => {
     }, [positions]);
   
     return (
-      <instancedMesh ref={sphereRef} args={[null, null, count]}>
+      <instancedMesh ref={sphereRef} args={[undefined, undefined, count]}>
         <sphereGeometry args={[0.1, 32, 32]} />
         <meshBasicMaterial color="white" />
       </instancedMesh>
