@@ -12,6 +12,10 @@ yarn dev
 pnpm dev
 ```
 
+I am attesting that this GitHub handle timenotspace is linked to the Tezos account tz1bwroKnPp4RK98gidbnntifoutoy7K64te for tzprofiles
+
+sig:edsigtbjGian3tL7LB8LTEWF1a8fmPjVCFayZDCHJFAj8T3QAXgEW8UB57QyTFfCtLRNb3iGK84E23nsKkmCqLyLNmGmtTZJb8E
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
